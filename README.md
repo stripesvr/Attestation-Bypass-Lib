@@ -1,4 +1,4 @@
-# entpass – Universal Meta / Oculus entitlement force for any Android game
+# Universal Meta / Oculus entitlement force for any game
 
 Forces the client-side Meta / Oculus Platform entitlement check to succeed so the
 log line
